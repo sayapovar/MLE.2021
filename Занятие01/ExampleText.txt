@@ -1,0 +1,6 @@
+How do artificial intelligence, machine learning, neural networks, and deep learning relate?
+
+Perhaps the easiest way to think about artificial intelligence, machine learning, neural networks, and deep learning is to think of them like Russian nesting dolls. Each is essentially a component of the prior term.
+
+Russian Nesting Dolls Analogy for AI, ML, DL and Neural Networks
+That is, machine learning is a subfield of artificial intelligence. Deep learning is a subfield of machine learning, and neural networks make up the backbone of deep learning algorithms. In fact, it is the number of node layers, or depth, of neural networks that distinguishes a single neural network from a deep learning algorithm, which must have more than three.
